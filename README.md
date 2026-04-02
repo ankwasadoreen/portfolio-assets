@@ -6,7 +6,7 @@ This project is a personal data science portfolio website developed to showcase 
 
 
 ## About Me
-I am a Master’s student in Statistics and Data Science at San Francisco State University (Expected Graduation: December 2026). I have a strong background in spatial data analysis and previously worked as a Spatial and Environmental Data Analyst at Uganda National Roads Authority (2020–2023).
+I am a Master’s student in Statistics and Data Science at San Francisco State University (Expected Graduation: December 2026). I have a strong background in spatial data analysis and previously worked as a Spatial and Environmental Data Analyst at Uganda National Roads Authority,Kampala,Uganda (2020–2023).
 
 **Interests:**
 - Healthcare analytics  
